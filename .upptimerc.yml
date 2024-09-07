@@ -5,19 +5,47 @@ repo: upptime # The name of this repository
 ## TODO: Add other services like zurg, autoscan, RD and others.
 sites:
   - name: Plex 1
-    url: https://plex.esmailelbob.xyz
+    url: https://plex.esmailelbob.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Plex 2  
-    url: https://plexx.esmailelbob.xyz
+    url: https://plexx.esmailelbob.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Tautulli
-    url: https://tautulli.esmailelbob.xyz
+    url: https://tautulli.esmailelbob.xyz/  
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Overseerr
-    url: https://overseerr.esmailelbob.xyz
+    url: https://overseerr.esmailelbob.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Sonarr
-    url: https://sonarr.esmailelbob.xyz
+    url: https://sonarr.esmailelbob.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Radarr
-    url: https://radarr.esmailelbob.xyz
+    url: https://radarr.esmailelbob.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Prowlarr
-    url: https://prowlarr.esmailelbob.xyz
+    url: https://prowlarr.esmailelbob.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 notifications:
   NOTIFICATION_DISCORD: true
@@ -29,7 +57,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  theme: dark
+  theme: ocean
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
