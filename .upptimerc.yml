@@ -2,26 +2,34 @@
 owner: upptime # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+## TODO: Add other services like zurg, autoscan, RD and others.
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Plex 1
+    url: https://plex.esmailelbob.xyz
+  - name: Plex 2  
+    url: https://plexx.esmailelbob.xyz
+  - name: Tautulli
+    url: https://tautulli.esmailelbob.xyz
+  - name: Overseerr
+    url: https://overseerr.esmailelbob.xyz
+  - name: Sonarr
+    url: https://sonarr.esmailelbob.xyz
+  - name: Radarr
+    url: https://radarr.esmailelbob.xyz
+  - name: Prowlarr
+    url: https://prowlarr.esmailelbob.xyz
+
+notifications:
+  NOTIFICATION_DISCORD: true
+  NOTIFICATION_DISCORD_WEBHOOK: true
+  NOTIFICATION_DISCORD_WEBHOOK_URL: $NOTIFICATION_DISCORD_WEBHOOK_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -31,6 +39,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Discord
+      href: https://discord.gg/omegaplex-1241288027561660458
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
