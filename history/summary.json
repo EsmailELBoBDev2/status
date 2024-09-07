@@ -16,7 +16,7 @@
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-09-07": 284
+      "2024-09-07": 292
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2024-09-07": 284
+      "2024-09-07": 292
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 283
+      "2024-09-07": 292
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.esmailelbob.xyz.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "66.04%",
-    "uptimeDay": "66.04%",
-    "uptimeWeek": "66.04%",
-    "uptimeMonth": "66.04%",
-    "uptimeYear": "66.04%",
+    "uptime": "64.07%",
+    "uptimeDay": "64.07%",
+    "uptimeWeek": "64.07%",
+    "uptimeMonth": "64.07%",
+    "uptimeYear": "64.07%",
     "time": 3622,
     "timeDay": 3622,
     "timeWeek": 3622,
     "timeMonth": 3622,
     "timeYear": 3622,
     "dailyMinutesDown": {
-      "2024-09-07": 96
+      "2024-09-07": 105
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.esmailelbob.xyz.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "96.68%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "96.68%",
-    "uptimeYear": "96.68%",
+    "uptime": "93.79%",
+    "uptimeDay": "93.79%",
+    "uptimeWeek": "93.79%",
+    "uptimeMonth": "93.79%",
+    "uptimeYear": "93.79%",
     "time": 471,
     "timeDay": 471,
     "timeWeek": 471,
     "timeMonth": 471,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2024-09-07": 9
+      "2024-09-07": 18
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://radarr.esmailelbob.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/radarr.esmailelbob.xyz.ico",
     "slug": "radarr",
-    "status": "down",
-    "uptime": "71.10%",
-    "uptimeDay": "71.10%",
-    "uptimeWeek": "71.10%",
-    "uptimeMonth": "71.10%",
-    "uptimeYear": "71.10%",
-    "time": 499,
-    "timeDay": 499,
-    "timeWeek": 499,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "status": "up",
+    "uptime": "68.97%",
+    "uptimeDay": "68.97%",
+    "uptimeWeek": "68.97%",
+    "uptimeMonth": "68.97%",
+    "uptimeYear": "68.97%",
+    "time": 546,
+    "timeDay": 546,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-09-07": 82
+      "2024-09-07": 91
     }
   },
   {
