@@ -10,17 +10,21 @@ sites:
       - 200
       - 201
       - 404
+      - 304
   - name: Plex 2  
     url: https://plexx.esmailelbob.xyz/
     expectedStatusCodes:
       - 200
       - 201
+      - 304
       - 404
   - name: Tautulli
     url: https://tautulli.esmailelbob.xyz/  
     expectedStatusCodes:
       - 200
       - 201
+      - 303
+      - 307
       - 404
   - name: Overseerr
     url: https://overseerr.esmailelbob.xyz/
