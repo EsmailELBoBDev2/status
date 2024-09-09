@@ -16,7 +16,7 @@
     "timeMonth": 361,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2024-09-09": 408,
+      "2024-09-09": 417,
       "2024-09-08": 1440,
       "2024-09-07": 353
     }
@@ -38,7 +38,7 @@
     "timeMonth": 699,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2024-09-09": 408,
+      "2024-09-09": 417,
       "2024-09-08": 1440,
       "2024-09-07": 353
     }
@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 408,
+      "2024-09-09": 417,
       "2024-09-08": 1440,
       "2024-09-07": 353
     }
@@ -70,19 +70,19 @@
     "url": "https://overseerr.esmailelbob.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.esmailelbob.xyz.ico",
     "slug": "overseerr",
-    "status": "up",
-    "uptime": "8.50%",
+    "status": "down",
+    "uptime": "8.47%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.50%",
-    "uptimeMonth": "8.50%",
-    "uptimeYear": "8.50%",
-    "time": 4616,
-    "timeDay": 7956,
-    "timeWeek": 4616,
-    "timeMonth": 4616,
-    "timeYear": 4616,
+    "uptimeWeek": "8.47%",
+    "uptimeMonth": "8.47%",
+    "uptimeYear": "8.47%",
+    "time": 4228,
+    "timeDay": 6055,
+    "timeWeek": 4228,
+    "timeMonth": 4228,
+    "timeYear": 4228,
     "dailyMinutesDown": {
-      "2024-09-09": 408,
+      "2024-09-09": 417,
       "2024-09-08": 1440,
       "2024-09-07": 166
     }
@@ -92,19 +92,19 @@
     "url": "https://sonarr.esmailelbob.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.esmailelbob.xyz.ico",
     "slug": "sonarr",
-    "status": "up",
-    "uptime": "12.45%",
+    "status": "down",
+    "uptime": "12.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.45%",
-    "uptimeMonth": "12.45%",
-    "uptimeYear": "12.45%",
-    "time": 446,
-    "timeDay": 504,
-    "timeWeek": 446,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "uptimeWeek": "12.40%",
+    "uptimeMonth": "12.40%",
+    "uptimeYear": "12.40%",
+    "time": 415,
+    "timeDay": 412,
+    "timeWeek": 415,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2024-09-09": 408,
+      "2024-09-09": 417,
       "2024-09-08": 1440,
       "2024-09-07": 79
     }
@@ -114,19 +114,19 @@
     "url": "https://radarr.esmailelbob.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/radarr.esmailelbob.xyz.ico",
     "slug": "radarr",
-    "status": "up",
-    "uptime": "9.16%",
+    "status": "down",
+    "uptime": "9.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.16%",
-    "uptimeMonth": "9.16%",
-    "uptimeYear": "9.16%",
-    "time": 473,
-    "timeDay": 442,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "uptimeWeek": "9.12%",
+    "uptimeMonth": "9.12%",
+    "uptimeYear": "9.12%",
+    "time": 440,
+    "timeDay": 361,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2024-09-09": 408,
+      "2024-09-09": 417,
       "2024-09-08": 1440,
       "2024-09-07": 152
     }
@@ -136,19 +136,19 @@
     "url": "https://prowlarr.esmailelbob.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/prowlarr.esmailelbob.xyz.ico",
     "slug": "prowlarr",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.26%",
-    "time": 1131,
-    "timeDay": 530,
-    "timeWeek": 1131,
-    "timeMonth": 1131,
-    "timeYear": 1131,
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
+    "time": 1029,
+    "timeDay": 477,
+    "timeWeek": 1029,
+    "timeMonth": 1029,
+    "timeYear": 1029,
     "dailyMinutesDown": {
-      "2024-09-09": 16
+      "2024-09-09": 25
     }
   }
 ]
