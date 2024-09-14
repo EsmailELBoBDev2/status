@@ -1,7 +1,7 @@
 url: https://overseerr.esmailelbob.xyz/
-status: up
-code: 200
-responseTime: 506
-lastUpdated: 2024-09-13T23:10:22.351Z
+status: down
+code: 502
+responseTime: 158
+lastUpdated: 2024-09-14T05:53:23.565Z
 startTime: 2024-09-07T18:06:52.923Z
 generator: Upptime <https://github.com/upptime/upptime>
